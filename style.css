@@ -1,6 +1,12 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: lemonchiffon;
     color: #481F01;
     text-align: justify;
+}
+
+h1 {
+    background-color: #481F01;
+    color: lemonchiffon;
+    text-align: center;
 }
