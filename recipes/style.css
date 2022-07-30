@@ -4,7 +4,25 @@ body {
     color: #481F01;
 }
 
+h1 {
+    background-color: #481F01;
+    color: lemonchiffon;
+    text-align: center;
+}
+
+p,
+.description {
+    text-align: center;
+}
+
 img {
     height: auto;
     width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.lemonbars {
+    height: auto;
+    width: 600px;
 }
