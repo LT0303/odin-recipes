@@ -7,12 +7,19 @@ body {
 h1 {
     background-color: #481F01;
     color: lemonchiffon;
-    text-align: center;
 }
 
 p,
 .description {
     text-align: center;
+}
+
+.description {
+    font-size: 30px;
+}
+
+p {
+    font-size: 17px;
 }
 
 img {
